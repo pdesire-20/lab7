@@ -8,3 +8,12 @@
   width: 100%;
   position: relative;
 }
+
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
